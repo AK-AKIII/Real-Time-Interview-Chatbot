@@ -369,5 +369,3 @@ We welcome contributions to the Chatbot Interviewer project.
 - Push your changes to your forked repository
 - Submit a pull request
   
-## Contributers :rocket:
-[Agam Pandey](https://github.com/AGAMPANDEYY) , [Akshat Shaw](https://github.com/akshatshaw) , [Aman Behera](https://github.com/beingamanforever) , [Kushagra Singh](https://github.com/git-kush) , [Vaibhav Prajapati](https://github.com/vaibhavprajapati-22) , [Vishnu jain](https://github.com/Vishnuujain)
